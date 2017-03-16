@@ -1,0 +1,2 @@
+access $array['x'] on an array that doesn't have x.
+use abstract class's methods on children
